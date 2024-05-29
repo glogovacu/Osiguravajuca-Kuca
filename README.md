@@ -1,3 +1,4 @@
+**[Read this in English / Kliknite ovde za englesku verziju](README.en.md)**
 # Informacioni sistem za prodaju polisa osiguranja
 ## Pregled
 Ovaj projekat predstavlja informacioni sistem za osiguravajuću kuću specijalizovanu za prodaju polisa osiguranja.
